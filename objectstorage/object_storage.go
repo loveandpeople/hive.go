@@ -2,6 +2,7 @@ package objectstorage
 
 import (
 	"errors"
+	"fmt"
 	"sync"
 	"sync/atomic"
 
@@ -893,7 +894,7 @@ func (objectStorage *ObjectStorage) unmarshalObject(key []byte, data []byte) Sto
 	}
 
 	if _, err = object.UnmarshalObjectStorageValue(data); err != nil {
-		panic(err)
+		panic(fmt.Sprint("key", key, "error:", err))
 	}
 
 	return object
