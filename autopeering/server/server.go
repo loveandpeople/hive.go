@@ -7,11 +7,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	pb "github.com/iotaledger/hive.go/autopeering/server/proto"
-	"github.com/iotaledger/hive.go/identity"
-	"github.com/iotaledger/hive.go/logger"
-	"github.com/iotaledger/hive.go/netutil"
+	"github.com/loveandpeople/hive.go/autopeering/peer"
+	pb "github.com/loveandpeople/hive.go/autopeering/server/proto"
+	"github.com/loveandpeople/hive.go/identity"
+	"github.com/loveandpeople/hive.go/logger"
+	"github.com/loveandpeople/hive.go/netutil"
 	"google.golang.org/protobuf/proto"
 )
 

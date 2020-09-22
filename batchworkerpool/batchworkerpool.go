@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iotaledger/hive.go/syncutils"
+	"github.com/loveandpeople/hive.go/syncutils"
 )
 
 type BatchWorkerPool struct {

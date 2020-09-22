@@ -1,8 +1,8 @@
 package discover
 
 import (
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/events"
+	"github.com/loveandpeople/hive.go/autopeering/peer"
+	"github.com/loveandpeople/hive.go/events"
 )
 
 // Events contains all the events that are triggered during the peer discovery.

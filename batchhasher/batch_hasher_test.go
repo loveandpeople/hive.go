@@ -1,11 +1,11 @@
 package batchhasher_test
 
 import (
-	"github.com/iotaledger/hive.go/batchhasher"
+	"github.com/loveandpeople/hive.go/batchhasher"
 	"sync"
 	"testing"
 
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/iota.go/trinary"
 )
 
 func BenchmarkBatchHasher_Hash(b *testing.B) {

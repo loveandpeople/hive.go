@@ -3,7 +3,7 @@ package bytesfilter
 import (
 	"sync"
 
-	"github.com/iotaledger/hive.go/types"
+	"github.com/loveandpeople/hive.go/types"
 )
 
 type BytesFilter struct {

@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/iotaledger/hive.go/events"
-	"github.com/iotaledger/hive.go/network"
-	"github.com/iotaledger/hive.go/syncutils"
+	"github.com/loveandpeople/hive.go/events"
+	"github.com/loveandpeople/hive.go/network"
+	"github.com/loveandpeople/hive.go/syncutils"
 )
 
 type TCPServer struct {

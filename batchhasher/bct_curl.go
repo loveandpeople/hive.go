@@ -1,7 +1,7 @@
 package batchhasher
 
 import (
-	"github.com/iotaledger/hive.go/ternary_mux"
+	"github.com/loveandpeople/hive.go/ternary_mux"
 )
 
 const (

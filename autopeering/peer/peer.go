@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"net"
 
-	pb "github.com/iotaledger/hive.go/autopeering/peer/proto"
-	"github.com/iotaledger/hive.go/autopeering/peer/service"
-	"github.com/iotaledger/hive.go/crypto/ed25519"
-	"github.com/iotaledger/hive.go/identity"
+	pb "github.com/loveandpeople/hive.go/autopeering/peer/proto"
+	"github.com/loveandpeople/hive.go/autopeering/peer/service"
+	"github.com/loveandpeople/hive.go/crypto/ed25519"
+	"github.com/loveandpeople/hive.go/identity"
 	"google.golang.org/protobuf/proto"
 )
 

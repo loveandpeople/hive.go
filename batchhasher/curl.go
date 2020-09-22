@@ -3,7 +3,7 @@ package batchhasher
 import (
 	"math"
 
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/iota.go/trinary"
 )
 
 const (

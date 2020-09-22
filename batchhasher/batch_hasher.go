@@ -4,10 +4,10 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/iotaledger/hive.go/batchworkerpool"
-	"github.com/iotaledger/hive.go/ternary_mux"
+	"github.com/loveandpeople/hive.go/batchworkerpool"
+	"github.com/loveandpeople/hive.go/ternary_mux"
 
-	"github.com/iotaledger/iota.go/trinary"
+	"github.com/loveandpeople/iota.go/trinary"
 )
 
 const (

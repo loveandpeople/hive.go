@@ -6,8 +6,8 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/iotaledger/hive.go/syncutils"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/loveandpeople/hive.go/syncutils"
+	"github.com/loveandpeople/hive.go/typeutils"
 )
 
 // Errors for the daemon package

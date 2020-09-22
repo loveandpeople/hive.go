@@ -11,8 +11,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.etcd.io/bbolt"
 
-	"github.com/iotaledger/hive.go/kvstore"
-	"github.com/iotaledger/hive.go/kvstore/bolt"
+	"github.com/loveandpeople/hive.go/kvstore"
+	"github.com/loveandpeople/hive.go/kvstore/bolt"
 )
 
 func testStore(t require.TestingT, prefix []byte) kvstore.KVStore {

@@ -1,7 +1,7 @@
 package objectstorage
 
 import (
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/loveandpeople/hive.go/typeutils"
 )
 
 type StorableObjectFlags struct {

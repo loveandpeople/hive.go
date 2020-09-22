@@ -1,6 +1,6 @@
 package tcp
 
-import "github.com/iotaledger/hive.go/events"
+import "github.com/loveandpeople/hive.go/events"
 
 type tcpServerEvents struct {
 	Start    *events.Event
