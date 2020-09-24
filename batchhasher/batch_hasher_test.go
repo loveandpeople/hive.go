@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/loveandpeople/iota.go/trinary"
+	"github.com/loveandpeople/lp.go/trinary"
 )
 
 func BenchmarkBatchHasher_Hash(b *testing.B) {

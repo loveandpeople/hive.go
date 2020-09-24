@@ -1,7 +1,7 @@
 package ternary_mux
 
 import (
-	. "github.com/loveandpeople/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 type BCTernaryDemultiplexer struct {

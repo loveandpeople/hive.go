@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strconv"
 
-	. "github.com/loveandpeople/iota.go/trinary"
+	. "github.com/loveandpeople/lp.go/trinary"
 )
 
 type BCTernaryMultiplexer struct {
