@@ -7,7 +7,7 @@ require (
 	github.com/golang/protobuf v1.4.2
 	github.com/gorilla/websocket v1.4.2
 	github.com/kr/text v0.2.0
-	github.com/loveandpeople/lp.go v1.0.0-beta.20
+	github.com/loveandpeople/lp.go v1.0.0-beta.22
 	github.com/mr-tron/base58 v1.2.0
 	github.com/oasisprotocol/ed25519 v0.0.0-20200819094954-65138ca6ec7c
 	github.com/panjf2000/ants/v2 v2.4.2
